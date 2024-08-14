@@ -6,7 +6,7 @@ We are a multi-channel auto platform with coverage and presence across vehicle t
 ### 1. Developed a full-stack website that allows users to see service details, booking service, and see all booking togther after login.
 ### 2. Option for User to manage booking, orders and can update users order status.
 ### 3. Form to leave a review for the clients to show on the homepage.
-### 4. Toggle theme feture Implemented
+### 4. Toggle theme feature Implemented
 
 ## Benefits of buying car from us:-
 #### 1. Quality vehicles – zero accidents
